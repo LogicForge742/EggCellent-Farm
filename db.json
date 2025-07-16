@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Farm Fresh Eggs",
+      "description": "Dozen of fresh eggs from free-range hens",
+      "pricePerTray": 7.7,
+      "image": "https://images.squarespace-cdn.com/content/v1/58a26f3cbf629a87d27a8464/1586369339771-YFVZ1B924QYU654RG8G2/E98BDDD1-AFB2-491A-8E44-41D954634B3B?format=1000w"
+    },
+    {
+      "id": "2",
+      "name": "Whole Chicken",
+      "description": "Premium quality whole chicken, farm-raised",
+      "price": 10.5,
+      "image": "https://ifoodreal.com/wp-content/uploads/2021/07/fg-how-to-cut-up-a-whole-chicken.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Chicken Breast",
+      "description": "Fresh chicken breast, boneless and skinless",
+      "price": 8.99,
+      "image": "https://fooppers.in/wp-content/uploads/2021/01/Chicken-Breast-Boneless-1.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Organic Eggs",
+      "description": "Certified organic eggs from pasture-raised hens",
+      "pricePerTray": 9.5,
+      "image": "https://www.wpr.org/wp-content/uploads/2025/02/AP100823136278-scaled.jpg"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "icon": "🐔",
+      "title": "Poultry Farming",
+      "description": "Free-range chickens raised with care and attention to animal welfare standards."
+    },
+    {
+      "id": "2",
+      "icon": "🥚",
+      "title": "Fresh Eggs",
+      "description": "Daily fresh eggs collected from our healthy, happy hens."
+    },
+    {
+      "id": "3",
+      "icon": "🚚",
+      "title": "Farm Delivery",
+      "description": "Fresh products delivered directly from our farm to your doorstep."
+    },
+    {
+      "id": "4",
+      "icon": "🌱",
+      "title": "Organic Products",
+      "description": "Certified organic poultry products grown without harmful chemicals."
+    }
+  ],
+  "submissions": [
+    {
+      "id": "c847",
+      "name": "Brayoo",
+      "email": "brayongeno@gamil.com",
+      "message": "Nice website I love it !!"
+    },
+    {
+      "id": "6415",
+      "name": "Mileno",
+      "email": "mileno5@gmail.com",
+      "message": "oooh what a chance!!"
+    },
+    {
+      "name": "Mildon",
+      "email": "pkoech100@gmail.com",
+      "message": "Keep going my boy",
+      "id": "0af6"
+    },
+    {
+      "id": "95aa",
+      "name": "Taoo B",
+      "email": "ngenomilton10@gmail.com",
+      "message": "It is a nice website"
+    }
+  ]
+}
