@@ -1,76 +1,77 @@
 # EggCellent Farm - Fresh Farm Products
 
-## Overview
-
-**EggCellent Farm** is a responsive, visually appealing website promoting a sustainable poultry farm that offers premium-quality farm-fresh eggs and poultry products. The site features sections for home, about, services, products, and contact, with an emphasis on clear navigation and calls-to-action.
+**Author:** MILTON KIPKOECH NGENO
 
 ---
 
-## Features
+## Description
 
-- **Responsive Navigation Bar:** Includes links to Home, About, Services, Products, and Contact sections, with a mobile menu toggle.
-- **Hero Section:** Eye-catching introduction with headline, descriptive text, and a "Shop Now" call-to-action button.
-- **About Section:** Information about the farm's mission, sustainable and ethical practices, and history.
-- **Services Section:** Detailed cards for farm services such as poultry farming, fresh eggs, delivery, and organic products—each with icons.
-- **Products Section:** Displays featured products including fresh eggs, whole chicken, chicken breast, and organic eggs, with images and pricing.
-- **Contact Section:** Contact form for user messages, plus business contact details and hours.
-- **Footer:** Copyright notice.
+EggCellent Farm is a sustainably operated poultry farm dedicated to providing premium-quality poultry and farm-fresh eggs. Our farm combines traditional and modern farming practices to ensure animal welfare, environmental sustainability, and the highest standards of product quality. We offer a variety of fresh products, including free-range eggs, whole chickens, chicken breasts, and certified organic eggs, all delivered fresh to your doorstep.
+
+---
+
+## Project Setup Instructions
+
+To run this project locally:
+
+1. **Clone the repository:**
+
+    ```
+    git clone :git@github.com:LogicForge742/EggCellent-Farm.git
+    ```
+
+2. **Navigate into the project directory:**
+
+    ```
+    cd EggCellent-farm
+    ```
+
+3. **Open the `index.html` file in your preferred web browser:**
+
+    - You can double-click the file, or  
+    - Use a local development server like [Live Server] if using VSCode.
+
+4. **Explore the homepage featuring farm info, products, services, and contact form.**
+
+---
+
+## Live Site
+
+The live project is hosted on GitHub Pages and can be accessed here:
+
+ [EggCellent Farm Live Site](https://github.com/LogicForge742/EggCellent-Farm)
+
 
 ---
 
 ## Technologies Used
 
-- **HTML5** for semantic structure
-- **CSS3** (external stylesheet: `Egg.css`) for styling and layout
-- **JavaScript** (external script: `Egg.js`) to handle interactivity, including mobile menu toggle and form submissions
+- HTML5  
+- CSS3 (via `Egg.css`)  
+- JavaScript (via `Egg.js`)
 
 ---
 
-## File Structure
+## Features
 
-
----
-
-## Installation & Usage
-
-1. Clone or download the repository.
-2. Ensure `index.html`, `Egg.css`, and `Egg.js` are in the same directory.
-3. Open `index.html` in any modern web browser.
-4. Navigate through the site using the menu.
-5. Use the contact form to send messages (requires JavaScript enabled).
+- Responsive navigation with mobile menu  
+- Hero section promoting fresh farm products  
+- About section highlighting farm philosophy and history  
+- Services including poultry farming, fresh eggs, delivery, and organic products  
+- Product catalog with images and descriptions  
+- Contact form for inquiries  
+- Contact info with address, phone, email, and working hours  
+- Footer with copyright information  
 
 ---
 
-## Customization
+## License & Copyright
 
-- Update image URLs in the product and about sections to use your own farm images.
-- Modify text content to better suit your farm’s unique story and offerings.
-- Adjust CSS rules in `Egg.css` to change colors, fonts, spacing, or layout.
-- Extend JavaScript in `Egg.js` for enhanced features like form validation or dynamic product loading.
+© 2025 EggCellent Poultry Farm. All rights reserved.
 
----
-
-## Notes
-
-- The site uses standard `rem` units for consistent, scalable typography and layout.
-- Placeholder texts such as "Whole Chicken Image" should be replaced with actual images for full effect.
-- The hero section sets a strong first impression with a clear call-to-action.
+This project is licensed under the **[MIT License](https://opensource.org/licenses/MIT)**.
 
 ---
 
-## License
 
-This project is open-source and free to use for educational and commercial purposes. Please provide attribution if you reuse significant parts of the code.
 
----
-
-## Contact
-
-For questions or support, contact:
-
-- Email: info@eggcellent.com
-- Phone: 0713156139
-
----
-
-*Last updated: July 16, 2025*
