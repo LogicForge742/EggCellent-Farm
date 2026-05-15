@@ -4,14 +4,24 @@
   "description": "**Author:** MILTON KIPKOECH NGENO",
   "main": "Egg.js",
   "scripts": {
-    "start": "node Egg.js",
+    "dev": "concurrently \"npm run server\" \"vite\"",
+    "build": "vite build",
+    "preview": "vite preview",
+    "server": "json-server --watch db.json --port 3000",
+    "start": "npm run dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^9.2.1",
+    "json-server": "^1.0.0-beta.15",
+    "live-server": "^1.2.2",
+    "vite": "^8.0.13"
+  },
+  "dependencies": {
+    "chart.js": "^4.5.1",
+    "lucide-static": "^1.16.0"
+  }
 }
-
-
-
-

@@ -57,28 +57,42 @@
   ],
   "submissions": [
     {
-      "id": "c847",
-      "name": "Brayoo",
-      "email": "brayongeno@gamil.com",
-      "message": "Nice website I love it !!"
+      "id": "1",
+      "type": "Production",
+      "title": "Daily Egg Collection",
+      "detail": "1,248 eggs collected from Coop A",
+      "timestamp": "2026-05-15T08:30:00Z",
+      "status": "success"
     },
     {
-      "id": "6415",
-      "name": "Mileno",
-      "email": "mileno5@gmail.com",
-      "message": "oooh what a chance!!"
+      "id": "2",
+      "type": "Health",
+      "title": "Vaccination Complete",
+      "detail": "Batch #402 completed Newcastle disease vaccination",
+      "timestamp": "2026-05-15T11:45:00Z",
+      "status": "info"
     },
     {
-      "name": "Brayo  Ngeno",
-      "email": "brayo2gmail.com",
-      "message": "Keep going my boy",
-      "id": "0af6"
+      "id": "3",
+      "type": "Inventory",
+      "title": "Low Feed Alert",
+      "detail": "Silo 2 level dropped below 15%",
+      "timestamp": "2026-05-15T14:20:00Z",
+      "status": "warning"
     },
     {
-      "id": "95aa",
-      "name": "Taoo B",
-      "email": "ngenomilton10@gmail.com",
-      "message": "It is a nice website"
+      "id": "4",
+      "type": "Sales",
+      "title": "Bulk Order Processed",
+      "detail": "Order #1092: 50 trays of Organic Eggs shipped",
+      "timestamp": "2026-05-15T16:00:00Z",
+      "status": "success"
     }
-  ]
+  ],
+  "farmStats": {
+    "eggsToday": 1248,
+    "poultryCount": 5600,
+    "revenue": 12450.50,
+    "feedLevel": 85
+  }
 }

@@ -26,10 +26,14 @@ To run this project locally:
     cd EggCellent-farm
     ```
 
-3. **Open the `index.html` file in your preferred web browser:**
+3. **Run the project:**
 
-    - You can double-click the file, or  
-    - Use a local development server like [Live Server] if using VSCode.
+    ```
+    npm start
+    ```
+
+    - This will start both the mock backend and the frontend server.
+    - Your browser should open automatically to `Egg.html`.
 
 4. **Explore the homepage featuring farm info, products, services, and contact form.**
 
